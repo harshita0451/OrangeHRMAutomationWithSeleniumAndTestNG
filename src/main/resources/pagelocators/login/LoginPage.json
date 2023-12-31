@@ -1,0 +1,13 @@
+{
+	"elements":
+	{
+		"UserName_txtBox" : "xpath->//input[@name='username']",
+		"Password_txtBox" : "xpath->//input[@name='password']",
+		"Login_button" : "xpath->//button[text()[normalize-space() = 'Login']]"
+	},
+	"constants":
+	{
+		"UserName_txt" : "Admin",
+		"PassWord_txt" : "admin123"
+	}
+}

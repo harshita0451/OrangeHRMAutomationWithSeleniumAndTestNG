@@ -1,0 +1,10 @@
+{
+	"constants": {
+		"UserRole_txt": "ESS",
+		"EmployeeName_txt": "Ad",
+		"Status_txt": "Enabled",
+		"UserName_txt": "test@12345678",
+		"PassWord_text": "test@451",
+		"ConfirmPassword_txt": "test@451"
+	}
+}

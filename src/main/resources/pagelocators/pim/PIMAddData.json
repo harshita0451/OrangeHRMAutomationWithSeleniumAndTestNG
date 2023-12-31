@@ -1,0 +1,12 @@
+{
+	"constants": {
+		"FirstName_Txt": "M",
+		"MiddleName_Txt": "S",
+		"LastName_Txt": "D",
+		"UserName_Txt": "msd@12345",
+		"Password_Txt": "harshita@Automation12345",
+		"ConfirmPassword_Txt": "harshita@Automation12345",
+		"Status_RadioButton": "Enabled",
+		"EmployeeName_Txt": "David"
+	}
+}

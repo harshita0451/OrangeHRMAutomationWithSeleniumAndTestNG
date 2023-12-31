@@ -1,0 +1,8 @@
+{
+	"elements":
+	{
+		"DashboardElement" : "xpath->//h6",
+		"Admin_button" : "xpath->//span[text()[normalize-space() = 'Admin' ]]",
+		"PIM_button" : "xpath->//span[text()[normalize-space() = 'PIM' ]]"
+	}
+}

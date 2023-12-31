@@ -1,0 +1,25 @@
+{
+	"elements": {
+		"AdminAddPage_Txt": "xpath->//h6[text()[normalize-space()='Add User']]",
+		"AdminPage_Txt": "xpath->//h6[text()[normalize-space()='Admin']]",
+		"UserRole_dropDown": "xpath->//label[text()='User Role']/parent::div/following-sibling::div/child::div",
+		"UserRole_dropDownList": "xpath->//div[@role='listbox']/child::div/child::*",
+		"EmployeeName_hints": "xpath->//label[text()[normalize-space()='Employee Name']]/parent::div/following-sibling::div//child::input[contains(@placeholder,'hints')]",
+		"EmployeeName_hintsList": "xpath->//div[@role='listbox' and contains(@class,'oxd-autocomplete-dropdown')]/child::*",
+		"Status_dropDown": "xpath->//label[text()='Status']/parent::div/following-sibling::div/child::div",
+		"Status_dropDownList": "xpath->//div[@role='listbox']/child::div/child::span",
+		"UserName_txtBox": "xpath->//label[text()='Username']/parent::div/following-sibling::div/input",
+		"PassWord_txtBox": "xpath->//label[text()='Password']/parent::div/following-sibling::div/input",
+		"ConfirmPassword_txtBox": "xpath->//label[text()='Confirm Password']/parent::div/following-sibling::div/input",
+		"Save_Button": "xpath->//button[ text()[normalize-space() = 'Save']]",
+		"Add_Button": "xpath->//button[text()[normalize-space() = 'Add' ]]",
+		"Searchpage_Validation": "xpath->//h5",
+		"Search_Button": "xpath->//button[text()[normalize-space() = 'Search' ]]",
+		"Reset_Button": "xpath->//button[text()[normalize-space() = 'Reset' ]]",
+		"Delete_chechBox": "xpath->//input[@type='checkbox' and @value='0']/following-sibling::span",
+		"Delete_Button": "xpath->//button[text()[normalize-space() = 'Delete Selected']]",
+		"PopUPDelete_Button": "xpath->//button[text()[normalize-space() = 'Yes, Delete']]",
+		"AddUserPopUP": "xpath->//p[text()='Successfully Saved']",
+		"DeleteUserPopUP": "xpath->//p[text()='Successfully Deleted']"
+	}
+}
